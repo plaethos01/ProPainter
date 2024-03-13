@@ -363,42 +363,19 @@ model = TrackingAnything(sam_checkpoint, cutie_checkpoint, propainter_checkpoint
 title = r"""<h1 align="center">ProPainter: Improving Propagation and Transformer for Video Inpainting</h1>"""
 
 description = r"""
-<center><img src='https://github.com/sczhou/ProPainter/raw/main/assets/propainter_logo1_glow.png' alt='Propainter logo' style="width:180px; margin-bottom:20px"></center>
-<b>Official Gradio demo</b> for <a href='https://github.com/sczhou/ProPainter' target='_blank'><b>Improving Propagation and Transformer for Video Inpainting (ICCV 2023)</b></a>.<br>
+<center> </center>
+<b>Official Gradio demo</b> <b>InPainting</b></a>.<br>
 🔥 Propainter is a robust inpainting algorithm.<br>
 🤗 Try to drop your video, add the masks and get the the inpainting results!<br>
 """
 article = r"""
-If ProPainter is helpful, please help to ⭐ the <a href='https://github.com/sczhou/ProPainter' target='_blank'>Github Repo</a>. Thanks! 
-[![GitHub Stars](https://img.shields.io/github/stars/sczhou/ProPainter?style=social)](https://github.com/sczhou/ProPainter)
 
 ---
 
-📝 **Citation**
-<br>
-If our work is useful for your research, please consider citing:
-```bibtex
-@inproceedings{zhou2023propainter,
-   title={{ProPainter}: Improving Propagation and Transformer for Video Inpainting},
-   author={Zhou, Shangchen and Li, Chongyi and Chan, Kelvin C.K and Loy, Chen Change},
-   booktitle={Proceedings of IEEE International Conference on Computer Vision (ICCV)},
-   year={2023}
-}
 ```
 
-📋 **License**
-<br>
-This project is licensed under <a rel="license" href="https://github.com/sczhou/CodeFormer/blob/master/LICENSE">S-Lab License 1.0</a>. 
-Redistribution and use for non-commercial purposes should follow this license.
 
-📧 **Contact**
 <br>
-If you have any questions, please feel free to reach me out at <b>shangchenzhou@gmail.com</b>.
-<div>
-    🤗 Find Me:
-    <a href="https://twitter.com/ShangchenZhou"><img style="margin-top:0.5em; margin-bottom:0.5em" src="https://img.shields.io/twitter/follow/ShangchenZhou?label=%40ShangchenZhou&style=social" alt="Twitter Follow"></a> 
-    <a href="https://github.com/sczhou"><img style="margin-top:0.5em; margin-bottom:2em" src="https://img.shields.io/github/followers/sczhou?style=social" alt="Github Follow"></a>
-</div>
 
 """
 css = """
