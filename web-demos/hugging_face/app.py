@@ -368,15 +368,9 @@ description = r"""
 🔥 Propainter is a robust inpainting algorithm.<br>
 🤗 Try to drop your video, add the masks and get the the inpainting results!<br>
 """
-article = r"""
-
+article = r""" 
 ---
-
 ```
-
-
-<br>
-
 """
 css = """
 .gradio-container {width: 85% !important}
